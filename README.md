@@ -117,7 +117,7 @@ The system follows a modular pipeline:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-- **Team Member**:
+- **Team Leader**:
 - Pallepati Manikanta
 - **References**:
 - ALBERT: "A Lite BERT for Self-Supervised Learning of Language Representations".
