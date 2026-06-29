@@ -118,7 +118,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Acknowledgments
 - **Team Member**:
-- D.V.S.R. Bharadwaj
+- Pallepati Manikanta
 - **References**:
 - ALBERT: "A Lite BERT for Self-Supervised Learning of Language Representations".
 - DQN: "Human-level Control through Deep Reinforcement Learning".
